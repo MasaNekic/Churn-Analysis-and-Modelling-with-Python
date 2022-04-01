@@ -1,0 +1,2 @@
+# Churn-Analysis-and-Modelling-with-Python
+Churn analysis is the process of using data to understand why your customers have stopped using your product or service. In this repository we are analysing Telco dataset in order to find the groups of people that are more likely to quit as Telco customers. We are also applying different machine learning techniques to train a model that will predict which customers are most likely to quit.  
